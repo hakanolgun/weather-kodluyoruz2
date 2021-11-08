@@ -1,0 +1,18 @@
+.container{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 1rem;
+}
+.dayDiv{
+    background-color: rgb(41, 82, 1);
+    padding: 1rem;
+    border-radius: 7px;
+}
+.tempDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
